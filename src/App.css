@@ -5,39 +5,52 @@
   text-align: center;
 }
 
+.app {
+  border: 5px solid black;
+  padding: 20px;
+}
+
+.app-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.homePage {
+  border: 3px solid orange;
+  padding: 15px;
+  flex: 1;
+}
+
+.header {
+  border: 3px solid blue;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.searchBar {
+  border: 2px solid green;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.employeePage {
+  border: 2px solid brown;
+  padding: 15px;
+  flex: 1;
+}
+
+.employeeList {
+  border: 2px solid purple;
+  padding: 1px;
+}
+
+.employeeListItem {
+  border: 2px solid red;
+  padding: 1px;
+  margin: 1px 0;
+}
+
 .card {
   padding: 2em;
-}
-.app{
-  border: 5px solid black; 
-   padding: 20px;
-
-}
-.employeeList {
-  border: 1px solid purple;
-}
-.employeePage {
-  border: 1px solid brown;
-}
-.employeeListItem {
-  border: 1px solid fuchsia;
-}
-.homePage {
-  border: 1px solid orange;
-}
-.header {
-  border: 1px solid blue;
-}
-.searchBar {
-  border: 1px solid green;
-}
-.app-container{display:flex;
-  gap:20px;
-  padding:20px;
-
-}
-.app{
-  border: 1px solid rgb(16, 15, 14);
-
-
 }
