@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+.app{
+  border: 5px solid black; 
+   padding: 20px;
+
+}
+.employeeList {
+  border: 1px solid purple;
+}
+.employeePage {
+  border: 1px solid brown;
+}
+.employeeListItem {
+  border: 1px solid fuchsia;
+}
+.homePage {
+  border: 1px solid orange;
+}
+.header {
+  border: 1px solid blue;
+}
+.searchBar {
+  border: 1px solid green;
+}
+.app-container{display:flex;
+  gap:20px;
+  padding:20px;
+
+}
+.app{
+  border: 1px solid rgb(16, 15, 14);
+
+
+}
