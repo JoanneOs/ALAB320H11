@@ -6,37 +6,37 @@
 }
 
 .app {
-  border: 5px solid black;
-  padding: 20px;
+  border: 3px solid black;
+  padding: 2px;
 }
 
 .app-container {
   display: flex;
-  gap: 20px;
-  padding: 20px;
+  gap: 2px;
+  padding: 2px;
 }
 
 .homePage {
-  border: 3px solid orange;
-  padding: 15px;
+  border: 2px solid orange;
+  padding: 1px;
   flex: 1;
 }
 
 .header {
-  border: 3px solid blue;
-  padding: 10px;
-  margin-bottom: 15px;
+  border: 2px solid blue;
+  padding: 1px;
+  margin-bottom: 1px;
 }
 
-.searchBar {
+.searchBar { 
   border: 2px solid green;
-  padding: 10px;
+  padding: 1px;
   margin-bottom: 15px;
 }
 
 .employeePage {
   border: 2px solid brown;
-  padding: 15px;
+  padding: 1px;
   flex: 1;
 }
 

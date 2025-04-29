@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 export default function HomePage() {
   return (
     <div className='homePage'>
-    <div>HomePage</div>
+    <div></div>
     <Header />
     <SearchBar />
     <EmployeeList />
